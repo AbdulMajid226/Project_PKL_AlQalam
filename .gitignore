@@ -1,0 +1,18 @@
+# Ignore documentation folder
+dokumentasi/
+
+# Common files to ignore
+.DS_Store
+Thumbs.db
+
+# In case there are any common document formats in other locations
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# If you have any temporary documentation files
+~$*.*
